@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.wizard-card {
+  margin: 20px;
+  padding: 20px;
+  border: solid 2px black;
+}

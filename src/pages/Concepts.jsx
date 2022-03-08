@@ -1,6 +1,7 @@
 import React from 'react'
 import Events from '../components/Events'
 import Lists from '../components/Lists'
+import Counter from '../components/Counter'
 
 
 function Concepts() {
@@ -13,6 +14,9 @@ function Concepts() {
 
       <Events />
       
+      <hr />
+
+      <Counter />
     
     </div>
   )
